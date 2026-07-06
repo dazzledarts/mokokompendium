@@ -230,7 +230,7 @@ builds:
             notes: |-
               **Main Damage Skill, Stagger, Paralysis Immune**
               - Ostinato (Leap Tree) turns Vivace into a Normal cast.
-              - Fits inside every 3rd Heavenly Tune cast.
+              - Fits inside every 4th Heavenly Tune cast.
           - name: Symphonia / Symphony Melody
             icon: Symphonia
             level_label: Awakening / Hyper Awakening
