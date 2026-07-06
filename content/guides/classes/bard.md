@@ -5,11 +5,11 @@ subclass: Bard
 class_id: 204
 description: Working guide for Bard including Desperate Salvation (Support) and True Courage (DPS) builds with Ark Grid variants.
 identity:
-  name: Serenade of Courage
+  name: Serenade of Courage / Serenade of Salvation
   description: Bard has an identity gauge that can be used to cast a party heal or party damage buff (Self-only for DPS build). This identity gauge is filled by hitting an enemy with your skills. Certain skills fill your identity gauge much faster than other skills. This identity gauge is often referred to as Bard's 'meter', with the individual bars often referred to as 'bubbles.'
 synergy:
   name: Note Brand / Defense Reduction
-  description: Reduces the defense of enemies through normal and summon skills.
+  description: On hit, increases damage received by all party members (Desperate Salvation). Reduces defense of enemies (True Courage).
   skills:
     - Sonatina
     - Sound Shock
