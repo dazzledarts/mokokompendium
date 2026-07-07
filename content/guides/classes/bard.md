@@ -565,9 +565,6 @@ builds:
           - skill: Harp of Rhythm
             type: cooldown
             priority: 8
-        dps_distribution:
-          - name: Tempest
-            dmg: 50
         rotation_sections:
           - title: Damage Rotation Priority
             steps:
