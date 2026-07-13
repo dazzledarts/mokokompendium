@@ -65,7 +65,7 @@ builds:
           - Raid Captain is efficient with 136% movement speed, or 1281 Swiftness plus a 5% Feast. Excess stats should be placed into Swiftness (Recommended) or Specialization.
           - Specialization only increases Serenade meter generation. This does not increase buff efficiency or skill damage for True Courage Bard.
           - Hymn of Combat turns Serenade of Courage into another damage ability, but requires sticking close to the boss on cast.
-          - You may take 3/3 Stormfield and 2/5 Mad Dash for a slight DPS loss if the boss is mobile or if you don’t like the shackle.
+          - You may take 3/3 Stormfield and 2/5 Mad Dash for a slight DPS loss, if the boss is mobile, or if you don’t like the shackle.
         arkPassives:
           - name: Crit
             points: 0
@@ -329,7 +329,7 @@ builds:
               - Prelude of Storm
               - Rhythm Buckshot
               - Harp of Rhythm
-      - name: 222
+      - name: !!str 222
         difficulty: 1
         recommended: false
         description: Unable to cast 3-bar Tempest, but significantly increases 2-bar and normal skill damage. More downtime between Tempests due to Sun core. Similar playstyle to 11x (Recommended).
@@ -584,7 +584,7 @@ builds:
               - Prelude of Storm
               - Rhythm Buckshot
               - Harp of Rhythm
-      - name: 333
+      - name: !!str 333
         difficulty: 1
         recommended: false
         description: Spreads damage amongst Normal Skills at the cost of limited meter generation. Sound Shock becomes your bread and butter skill. Not forced to play in melee range. "Note:" As of July 2026, this build lacks significant damage (upwards of 12% compared to 11x) and NOT recommended. Play this build only because you want to.
